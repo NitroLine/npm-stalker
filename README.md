@@ -15,4 +15,4 @@ Package require your own instance of our statistics server. You can get it [here
 ...
 ```
 
-Done. Now After every execute of `npm insall` it will send statistics about server to your statistics server
+Done. Now After every execute of `npm install` it will send statistics about server to your statistics server
