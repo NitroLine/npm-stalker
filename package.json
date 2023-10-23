@@ -1,8 +1,8 @@
 {
   "name": "npm-stalker",
-  "version": "0.0.1",
+  "version": "0.0.1b",
   "description": "A typed file with route",
-  "repository": "https://github.com/NitroLine/npm-stalker",
+  "repository": "https://gitlab.com/tumba-yumba/npm-statistics/npm-stalker.git",
   "main": "post-install.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
